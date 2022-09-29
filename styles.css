@@ -20,12 +20,17 @@ body {
     border-radius: 5px;
 }
 
-.links {}
+.links {
+    display: block;
+    width: 600px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
 
-#first {}
-
-#second {}
-
-#third {}
-
-#fourth {}
+a {
+    padding: 10px;
+    color: #000000ab;
+    text-decoration-style: dotted;
+}
