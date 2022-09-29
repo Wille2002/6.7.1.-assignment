@@ -34,3 +34,12 @@ a {
     color: #000000ab;
     text-decoration-style: dotted;
 }
+
+.header {}
+
+.image {
+    background-image: url("GOT (kopia 2).jpg");
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
